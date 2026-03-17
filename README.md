@@ -59,6 +59,7 @@ print(cm)
 ```
 
 ## Output:
+![Output](https://github.com/user-attachments/assets/f060bded-976c-42c9-8466-52ef1be7b3ec)
 
 
 
